@@ -1,0 +1,8 @@
+*.pth
+*.png
+*.pyc
+*.db
+*.csv
+.idea/
+.ipynb_checkpoints/
+!Aalto_HardMining_Tuned_best.pth
